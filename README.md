@@ -1,4 +1,4 @@
-- **TITLE:** *"Rail Fence Cipher Algorithm for Message Encryption and Decryption on Android"*
+**TITLE:** *"Rail Fence Cipher Algorithm for Message Encryption and Decryption on Android"*
 
 **METHODOLOGY:**  
 The **Rail Fence Cipher** algorithm is implemented in an **Android** application developed using **Kotlin** and **Android Studio**. The algorithm works by encrypting a message into a zigzag pattern across a predefined number of rails, and then reordering the characters according to this pattern. In the decryption phase, the process is reversed to reconstruct the original message. The application allows users to easily encrypt and decrypt messages on their mobile devices, providing a simple yet effective encryption technique for secure communication.
